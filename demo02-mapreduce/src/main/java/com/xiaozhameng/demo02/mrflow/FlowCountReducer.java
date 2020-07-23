@@ -5,6 +5,10 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 
+/**
+ * reduce阶段
+ * @author xiaozhameng
+ */
 public class FlowCountReducer extends Reducer<Text, FlowBean, Text, FlowBean> {
 
     @Override

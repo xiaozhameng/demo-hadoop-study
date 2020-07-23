@@ -1,4 +1,4 @@
-package com.xiaozhameng.demo02.mrdemo;
+package com.xiaozhameng.demo02.inputformat.combine;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

@@ -10,6 +10,7 @@ import java.io.IOException;
  * Mapper类
  *
  * 获取一行
+ * @author xiaozhameng
  */
 public class FlowCountMapper extends Mapper<LongWritable, Text,Text,FlowBean> {
 

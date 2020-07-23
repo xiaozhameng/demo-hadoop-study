@@ -9,6 +9,10 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 import java.io.IOException;
 
+/**
+ * 驱动程序
+ * @author xiaozhameng
+ */
 public class FlowSumDriver {
 
     /**
